@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Admin/Attachments",
+  "readableLineLength": true,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "alwaysUpdateLinks": true,
+  "vimMode": false
+}
