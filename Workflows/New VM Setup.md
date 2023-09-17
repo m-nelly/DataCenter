@@ -38,6 +38,8 @@ alias htb='sudo openvpn --config /home/mnelly/Documents/htb.ovpn --daemon'
 # tool aliases
 alias cme='crackmapexec'
 alias wfuzz='wfuzz -c'
+alias update='sudo apt update && sudo apt -y upgrade'
+alias hosts='sudo vim /etc/hosts'
 ## end additions ##
 
 ```
