@@ -1,11 +1,6 @@
 [
   "dataview",
-  "table-editor-obsidian",
-  "obsidian-kanban",
   "templater-obsidian",
-  "obsidian-style-settings",
-  "obsidian-minimal-settings",
   "obsidian-hider",
-  "settings-search",
-  "obsidian-plugin-toc"
+  "settings-search"
 ]

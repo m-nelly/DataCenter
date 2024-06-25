@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "2a6a98dc509c15a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb1eef91a87a1694",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e7b35e651f07fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Threat Intelligence.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712c0fad5ababc0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "23914667980c1139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c393a63e7edae5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa67e5c7ed83ae78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f8f4b432b83095b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0968e74250d05d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "8635d80000742f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d30bb88f0ea4ea2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7801b0ac37e17be3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "afb02403463b1c0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference/Threat Intelligence.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a2e7b35e651f07fa",
+  "lastOpenFiles": [
+    "Reference/Offensive Security.md",
+    "Reference/Nix.md",
+    "Reference/Indicators of Compromise.md",
+    "Reference/CTF Methodology.md",
+    "Reference/Computer Science.md",
+    "Reference/Access Control.md",
+    "Learning/Markdown.md",
+    "Learning/Emergent Note Taking.md",
+    "Archive/Cheatsheets/Windows Environment Variables.md",
+    "Archive/Cheatsheets/WebApp Injections.md",
+    "Archive/Cheatsheets/Vim.md",
+    "Archive/Cheatsheets/SSH Port Forwarding & Tunneling.md",
+    "Archive/Cheatsheets/Reverse Shells.md",
+    "Archive/Cheatsheets/Regex.md",
+    "Archive/Cheatsheets/Remote Process Creation - Windows.md",
+    "Archive/Cheatsheets/Password Attacks.md",
+    "Archive/Cheatsheets/New Machine Setup.md",
+    "Archive/Cheatsheets/File Transfers.md",
+    "Archive/Cheatsheets/ASCII Encoding.md",
+    "Admin/Templates/Primary.md",
+    "Admin/Templates/Engagement.md",
+    "Admin/Templates/Meta.md",
+    "Checklists/Red Team/Internal & M365.md",
+    "Checklists/Red Team/Cloud & External.md",
+    "Checklists/Red Team/API & WebApp.md",
+    "Checklists/Red Team/Administration.md"
+  ]
+}
